@@ -17,7 +17,7 @@ Process data is used to verify the model.
 
 
 
-**NB!** If you use this model in scientific work, please cite 
+**NB!** If you use this model in scientific research, please cite 
 
 I. Danilushkin, "State-Space Model of Spatially Distributed Flow Heating with Time-Varying Parameters," 2023 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), Sochi, Russian Federation, 2023, pp. 993-997, doi: 10.1109/ICIEAM57311.2023.10139082.
 
@@ -36,7 +36,7 @@ Danilushkin I.A., Kolpashchikov S.A., Lusenko D.S. Dynamic model of a waste heat
 
 
 
-**Важно!** Если вы используете эту модель в своей научной работе, пожалуйста, сошлитесь на мои публикации:
+**Важно!** Если вы используете эту модель в своих научных исследованиях, пожалуйста, сошлитесь на мои публикации:
 
 I. Danilushkin, "State-Space Model of Spatially Distributed Flow Heating with Time-Varying Parameters," 2023 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), Sochi, Russian Federation, 2023, pp. 993-997, doi: 10.1109/ICIEAM57311.2023.10139082.
 
