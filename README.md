@@ -1,6 +1,8 @@
 # Simulink-flowheater
 
-ниже - на русском
+
+см. ниже - на русском языке
+
 
 **Briefly:**
 Variable flow heater model based on state-space representation. The spectral method of analysis of distributed systems is used.
