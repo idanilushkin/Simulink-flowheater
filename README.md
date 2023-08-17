@@ -15,6 +15,10 @@ The heater temperature calculation is based on the energy balance equation. The 
 As an example of running Simulink-model, the result of simulating a waste heat boiler as an object with distributed parameters is given.
 Process data is used to verify the model.
 
+>_To run the example, download the files:_ flowheater_demo.slx, flowheater_demo.mat, sfFlowHeating.m
+>
+>Simulink Version 8.7 (R2016a)
+
 
 
 **NB!** If you use this model in scientific research, please cite 
@@ -35,6 +39,9 @@ Danilushkin I.A., Kolpashchikov S.A., Lusenko D.S. Dynamic model of a waste heat
 
 В качестве примера расчёта приведён результат моделирования водогрейного котла утилизатора как объекта с распределёнными параметрами. Для верификации модели используются данные технологического процесса.
 
+>_Для запуска примера скачайте файлы:_ flowheater_demo.slx, flowheater_demo.mat, sfFlowHeating.m
+>
+>Simulink Version 8.7 (R2016a)
 
 
 **Важно!** Если вы используете эту модель в своих научных исследованиях, пожалуйста, сошлитесь на мои публикации:
